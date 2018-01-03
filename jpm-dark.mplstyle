@@ -10,6 +10,7 @@ axes.labelsize: 18
 axes.linewidth: 0
 axes.prop_cycle: cycler('color', ['30bbff', 'ff6b51', 'ffc851', '7de524', 'dbdbdb', 'ff00f3'])
 axes.titlesize: 24
+axes.grid.which: both
 
 figure.facecolor: black
 figure.figsize: 8.0, 5.5
